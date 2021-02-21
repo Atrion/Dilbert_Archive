@@ -15,9 +15,9 @@ If `[to]` not specified - today
 Examples
 --------
 
-`$ dilbert.sh` - download all strips (from 16. 4. 1989)
+`$ ./dilbert.sh` - download all strips (from 16. 4. 1989)
 
-`$ dilbert.sh today` - download today strip
+`$ ./dilbert.sh today` - download today strip
 
-`$ dilbert.sh 2016-09-07 yesterday` - download strips from 7. 9. 2016 to yesterday
+`$ ./dilbert.sh 2016-09-07 yesterday` - download strips from 7. 9. 2016 to yesterday
 
